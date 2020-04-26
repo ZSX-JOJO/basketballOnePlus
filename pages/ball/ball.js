@@ -143,7 +143,7 @@ Page({
           markers : [{
             id: 0,
             title: "篮球场1",
-            iconPath: "../../asserts/img/markers.png",
+            iconPath: "../../images/markers.png",
             latitude: latitude,
             longitude: longitude,
             width: 30,
@@ -162,7 +162,7 @@ Page({
           {
             id: 1,
             title: "篮球场2",
-            iconPath: "../../asserts/img/markers.png",
+            iconPath: "../../images/markers.png",
             latitude: latitude+0.1,
             longitude: longitude+0.1,
             width: 30,
@@ -181,7 +181,7 @@ Page({
           {
             id: 3,
             title: "篮球场3",
-            iconPath: "../../asserts/img/markers.png",
+            iconPath: "../../images/markers.png",
             latitude: latitude+0.01,
             longitude: longitude+0.1,
             width: 30,

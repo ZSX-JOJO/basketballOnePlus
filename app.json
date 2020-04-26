@@ -22,14 +22,14 @@
       {
         "pagePath": "pages/ball/ball",
         "text": "约球",
-        "iconPath": "asserts/img/yueqiu.png",
-        "selectedIconPath": "asserts/img/yueqiu-select.png"
+        "iconPath": "images/yueqiu.png",
+        "selectedIconPath": "images/yueqiu-select.png"
       },
       {
         "pagePath": "pages/me/me",
         "text": "我的",
-        "iconPath": "asserts/img/me.png",
-        "selectedIconPath": "asserts/img/me-select.png"
+        "iconPath": "images/me.png",
+        "selectedIconPath": "images/me-select.png"
       }
     ]
   },
