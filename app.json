@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/ball/ball",
+    "pages/me/me",
+    "pages/court/court",
+    "pages/activity/activity"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EE9A00",
+    "navigationBarTitleText": "篮球ONE+",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false,
+    "backgroundColor": "#EE9A00"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "backgroundColor": "#EE9A00",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/ball/ball",
+        "text": "约球",
+        "iconPath": "asserts/img/yueqiu.png",
+        "selectedIconPath": "asserts/img/yueqiu-select.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "asserts/img/me.png",
+        "selectedIconPath": "asserts/img/me-select.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "requiredBackgroundModes": [
+    "location"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "useExtendedLib": {
+    "weui": true
+  }
+}

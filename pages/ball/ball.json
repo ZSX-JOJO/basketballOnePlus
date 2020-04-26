@@ -1,0 +1,8 @@
+{
+  "backgroundTextStyle":"light",
+  "navigationBarBackgroundColor": "#EE9A00",
+  "navigationBarTitleText": "约球",
+  "navigationBarTextStyle":"black",
+  "enablePullDownRefresh":false,
+  "backgroundColor":"#EE9A00"
+}
